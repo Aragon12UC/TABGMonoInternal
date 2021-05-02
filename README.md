@@ -14,3 +14,6 @@ I've been using it for 2 days in a row and I haven't gotten banned yet. I HIGHLY
 
 # How to use
 Use VollRagm's public EQU8 bypass on a mono injector (the guy's a legend go +rep him): https://www.unknowncheats.me/forum/anti-cheat-bypass/451234-noequ8-cheat-engine-totally-accurate-battlegrounds.html
+
+# Video
+https://streamable.com/yvdtyq
