@@ -1,5 +1,6 @@
 # TABGMonoInternal
 Basic mono internal for TABG. The main goal was performance, you can read my UC post about how to optimise mono internals if it interests you.
+https://www.unknowncheats.me/forum/unity/437277-mono-internal-optimisation-tips.html#post3044200
 
 # How to build
 1. Reference most dlls in <gameDirectory>\TotallyAccurateBattlegrounds_Data\Managed
